@@ -1,0 +1,1 @@
+insert into actions (transaction_id, action_id, name, time) values (:transaction_id, :action_id, :name, :time)

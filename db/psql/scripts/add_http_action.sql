@@ -1,0 +1,1 @@
+insert into actions_http (id, method, url, headers, body) values (:id, :method, :url, :headers, :body)

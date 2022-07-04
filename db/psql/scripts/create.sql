@@ -1,0 +1,1 @@
+insert into transactions (id, name, state) values (:id, :name, :state);

@@ -1,0 +1,1 @@
+insert into tags(transaction_id, name, value) values (:transaction_id, :name, :value)
